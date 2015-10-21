@@ -1,0 +1,28 @@
+
+h1 {
+  text-align: center;
+}
+.row{
+    padding-top: 50px;
+}
+
+#left {
+  border-right: 5px solid green;
+  /*height: 100%;
+  position: absolute;
+  float: left;*/
+}
+#right {
+  float: right;
+}
+
+h2 {
+  text-align: center;
+}
+#userInput {
+
+
+}
+ul {
+  list-style-type: none;
+}
